@@ -1,4 +1,0 @@
-Config = {}
-
-Config.money = 350000
-Config.webhook = 'Your Webhook Here'
