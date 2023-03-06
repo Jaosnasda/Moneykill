@@ -7,5 +7,5 @@ Citizen.CreateThread(function()
 end)
 
 AddEventHandler('esx:onPlayerDeath', function(data)
-    TriggerServerEvent('killed', data.killerServerId)
+    TriggerServerEvent('Mano_Moneykill', data.killerServerId)
 end)
