@@ -1,3 +1,3 @@
 Config = {}
 
-Config.money = 350000
+Config.money = 35000
